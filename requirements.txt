@@ -53,3 +53,6 @@ urllib3==1.25.10
 websocket-client==0.53.0
 Werkzeug==0.14.1
 yarl==1.6.0
+
+APScheduler~=3.8.0
+wonderwords~=2.2.0
